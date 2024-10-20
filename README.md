@@ -1,2 +1,6 @@
+# *42Bangkok Rush Project*
 
-# 42bkk_rush_proj
+### Created by Fai and Pun
+#### Since June, 2023
+
+💻 **Tech Stack**: js, HTML, CSS
